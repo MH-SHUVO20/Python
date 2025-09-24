@@ -1,0 +1,1 @@
+print("This is MH-SHUVO. Fist Python code.")
